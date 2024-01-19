@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noxbolt
+- 👋 Hi, I’m Tarun
 - 👀 I’m interested in coding,tech trends, music
 - 🌱 I’m currently learning Python,Data Structure
 - 📫 Reach me through my email or socials
